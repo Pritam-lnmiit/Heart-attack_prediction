@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: mlproject
+Version: 0.0.1
+Author: pritam
+Author-email: 22ume028@lnmiit.ac.in
+Requires-Dist: pandas
+Requires-Dist: numpy
